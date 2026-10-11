@@ -13,3 +13,4 @@ and should be disabled outside permitted quest combat. Counter and overlay behav
 must be tested in-game. No full RuneLite compilation has been completed in this environment.
 
 To upgrade, replace `SlayerHunterPlugin.java` and `SlayerHunterPanel.java` and rerun Gradle.
+build=standard
