@@ -1,0 +1,108 @@
+SLAYER + HUNTER MAIN — CHALLENGE RULES
+Updated: 2026-10-11
+Banking limits and Thieving streak bonuses remain undecided.
+
+1. GENERAL RULES
+• Slayer may be trained through assigned tasks; Hunter is unrestricted.
+• Combat training and bosses are Slayer-task only, except approved activities: Pest Control, Barbarian Assault, quest-required fights and eligible off-task Combat Achievements.
+• A Combat Achievement that can be completed on a Slayer task must be completed on-task.
+• XP from quests, lamps, random events and achievement diaries is allowed in any skill.
+• No direct player trading. Selling personally obtained items on the Grand Exchange is allowed.
+
+2. SKILLS AND RESOURCES
+• Slayer: fight monsters on assigned Slayer tasks.
+• Hunter: completely unrestricted, at any time.
+• Cooking: use food obtained through Hunter, Slayer or permitted purchases.
+• Prayer: use bones obtained through Hunter or Slayer; don't buy bones.
+• Farming: use Slayer-obtained seeds.
+• Herblore: train using permitted Slayer/Farming ingredients.
+• Runecrafting: train using pure essence from Slayer. Buying combat runes is permitted.
+• Crafting and Smithing: use materials permitted by the challenge, primarily Slayer resources.
+• Construction: use materials personally obtained from any permitted source.
+• Woodcutting: use legitimately obtained axes with available durability charges.
+• Mining: use legitimately obtained pickaxes with available durability charges.
+• Firemaking: use creature-dropped logs or logs cut with permitted axes.
+• Fletching: use permitted logs and other permitted resources.
+• Fishing: acquire a permitted fishing tool before training; charge limits apply.
+• Agility: earn five course laps per Slayer task; unused laps carry over, any unlocked course permitted. Travel shortcuts do not consume laps.
+• Thieving: spend earned attempts; failures count as attempts.
+
+3. TOOL DURABILITY — WOODCUTTING
+One use = one entire tree chopped down (not one log).
+Bronze axe .......... 10 trees
+Iron axe ............ 15 trees
+Steel axe ........... 25 trees
+Black axe ........... 30 trees
+Mithril axe ......... 40 trees
+Adamant axe ......... 60 trees
+Rune axe ............ 100 trees
+Dragon axe .......... 2,500 trees
+Crystal axe ......... 5,000 trees
+3rd age axe ......... Unlimited
+
+4. TOOL DURABILITY — MINING
+One use = one successfully mined ore.
+Bronze pickaxe ...... 50 ores
+Iron pickaxe ........ 75 ores
+Steel pickaxe ....... 125 ores
+Black pickaxe ....... 200 ores
+Mithril pickaxe ..... 275 ores
+Adamant pickaxe ..... 400 ores
+Rune pickaxe ........ 550 ores
+Dragon pickaxe ...... 2,500 ores
+Crystal pickaxe ..... 5,000 ores
+3rd age pickaxe ..... Unlimited
+
+5. TOOL DURABILITY — FISHING
+One use = one successful catch; failed attempts don't count.
+Small fishing net ... 100 catches
+Big fishing net ..... 200 catches
+Fishing rod ......... 150 catches
+Fly fishing rod ..... 250 catches
+Lobster pot ......... 400 catches
+Regular harpoon ..... 500 catches
+Dragon tools ........ 2,500 uses
+Crystal tools ....... 5,000 uses
+Barbarian rod ....... Unlimited
+Karambwan vessel .... Unlimited
+Unlisted fishing tools still need specific charge rules.
+
+6. AGILITY
+• Completing a Slayer task earns five Agility laps.
+• Unused laps carry forward.
+• Laps may be spent at any unlocked Agility course.
+• Shortcuts used for travel don't spend laps.
+
+7. THIEVING
+• Earn one attempt per 1,000 GP earned directly from Slayer monster drops.
+• Earn one attempt for completing a Slayer task.
+• GP gained through High Alchemy or sales does not count.
+• Failed attempts consume an attempt; unused attempts carry forward.
+• STREAK BONUS DECISION PENDING: Previously +10 at streak 10, +50 at 50, +100 at 100 (non-stacking). User may remove these bonuses. CURRENT PLUGIN LOGIC STILL AWARDS THEM until changed.
+
+8. FOOD AND POTIONS
+• Food and potions MAY be purchased.
+• Food can alternatively come from Hunter and Slayer; potions can be made through permitted Herblore.
+
+9. PURCHASES AND ITEM SOURCING
+• Buying weapon/armour upgrades, ammunition and runes is allowed.
+• For restricted tools and items available as Slayer creature drops, obtain them from those creatures rather than buying them.
+• Do not trade directly with other players.
+• You may sell personally obtained items freely through the GE.
+• Ground spawns are permitted only where no creature/Hunter/other permitted source can supply the item.
+
+10. QUESTS, DIARIES AND CLUES
+• All quests are allowed. Get required items from creature drops when possible; otherwise an alternate source may be used. Quest-only items are permitted.
+• Quest XP may be awarded to any skill.
+• Achievement diaries of any tier may be completed when their requirements can be met under the normal restrictions. Diary rewards and XP lamps are permitted; diary activities do NOT grant a blanket exemption to training restrictions.
+• All clue tiers may be completed at any time; rewards may be used or sold subject to existing combat/storage rules.
+
+11. MINIGAMES AND COMBAT EXCEPTIONS
+• Pest Control and Barbarian Assault are allowed for combat training and rewards.
+• Quest-required fights are allowed.
+• Off-task Combat Achievements are allowed only when the achievement cannot be done during a Slayer task.
+• Skilling minigames, including Wintertodt, Tempoross and Guardians of the Rift, are not allowed for XP/rewards.
+
+12. DEATH AND BANKING
+• You may recover your own items after death by any method.
+• Banking is limited; the exact whitelist is not yet final.
