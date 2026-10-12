@@ -648,13 +648,19 @@ public class SlayerHunterPanel extends PluginPanel
 
     private void exportBackup()
     {
-        javax.swing.JFileChooser chooser = new javax.swing.JFileChooser();
-        chooser.setSelectedFile(new java.io.File("slayer-hunter-backup.txt"));
-        if (chooser.showSaveDialog(this) != javax.swing.JFileChooser.APPROVE_OPTION) return;
+        net.runelite.client.util.Filepath.Chooser chooser =
+            new net.runelite.client.util.Filepath.Chooser()
+                .setIsSave()
+                .setAcceptsFiles()
+                .setDialogTitle("Export Slayer Hunter backup")
+                .setFileName("slayer-hunter-backup.txt")
+                .setDefaultExtension("txt")
+                .addExtensionFilter("Text files", "txt");
+        java.util.List<net.runelite.client.util.Filepath> selected = chooser.showDialog(this);
+        if (selected == null || selected.isEmpty()) return;
         try
         {
-            java.nio.file.Files.write(chooser.getSelectedFile().toPath(),
-                plugin.backupText().getBytes(java.nio.charset.StandardCharsets.UTF_8));
+            selected.get(0).write(plugin.backupText());
             JOptionPane.showMessageDialog(this, "Backup exported.");
         }
         catch (java.io.IOException ex) { error("Could not export: " + ex.getMessage()); }
